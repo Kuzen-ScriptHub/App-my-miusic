@@ -1,7 +1,17 @@
 [
   {
-    "title": "Bùi Trường Linh Mix",
-    "artist": "Bùi Trường Linh",
+    "title": "Bùi Trường Linh",
+    "artist": "Nghệ sĩ",
     "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/buitruonglinh.mp3"
+  },
+  {
+    "title": "Đường Tôi Cho Em Về",
+    "artist": "Nghệ sĩ",
+    "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/duong%20toi%20cho%20em%20ve.mp3"
+  },
+  {
+    "title": "Gió Thì",
+    "artist": "Nghệ sĩ",
+    "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/gio%20thi.mp3"
   }
 ]
