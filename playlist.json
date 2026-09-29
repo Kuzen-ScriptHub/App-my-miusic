@@ -1,17 +1,22 @@
-[
-  {
-    "title": "Bùi Trường Linh",
-    "artist": "Nghệ sĩ",
-    "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/buitruonglinh.mp3"
-  },
-  {
-    "title": "Đường Tôi Cho Em Về",
-    "artist": "Nghệ sĩ",
-    "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/duongtoichoemve.mp3"
-  },
-  {
-    "title": "Gió Thì",
-    "artist": "Nghệ sĩ",
-    "url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/giothi.mp3"
-  }
-]
+{
+  "playlist": [
+    {
+      "title": "Bài hát có ảnh",
+      "artist": "Bùi Trường Linh",
+      "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/buitruonglinh.mp3",
+      "cover": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/anhbuitruonglinh.png"
+    },
+    {
+      "title": "Dương Tới Cho Em Về",
+      "artist": "Nghệ sĩ",
+      "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/duongtoichoemve.mp3",
+      "cover": ""
+    },
+    {
+      "title": "Gió Thì",
+      "artist": "Nghệ sĩ",
+      "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/giothi.mp3",
+      "cover": ""
+    }
+  ]
+}
