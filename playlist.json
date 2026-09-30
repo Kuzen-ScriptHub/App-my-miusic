@@ -1,20 +1,20 @@
 {
   "playlist": [
     {
-      "title": "Bài hát có ảnh",
+      "title": "Dù cho mai về sau",
       "artist": "Bùi Trường Linh",
       "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/buitruonglinh.mp3",
       "cover": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/anhbuitruonglinh.png"
     },
     {
-      "title": "Dương Tới Cho Em Về",
-      "artist": "Nghệ sĩ",
+      "title": "Đường Tôi Chở Em Về",
+      "artist": "Bùi Trường Link",
       "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/duongtoichoemve.mp3",
       "cover": ""
     },
     {
-      "title": "Gió Thì",
-      "artist": "Nghệ sĩ",
+      "title": "Giờ Thì",
+      "artist": "Bùi Trường Link",
       "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/giothi.mp3",
       "cover": ""
     },
