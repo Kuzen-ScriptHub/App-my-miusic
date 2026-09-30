@@ -17,6 +17,13 @@
       "artist": "Nghệ sĩ",
       "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/giothi.mp3",
       "cover": ""
+    },
+    
+    {
+      "title": "nhất gái gia lai",
+      "artist": "Hoàng Kaylee",
+      "file_url": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/nhatgaigialai.mp3",
+      "cover": "https://raw.githubusercontent.com/Kuzen-ScriptHub/App-my-miusic/main/nhatgaigialai.jpg"
     }
   ]
 }
